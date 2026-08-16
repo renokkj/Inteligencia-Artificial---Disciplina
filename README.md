@@ -16,8 +16,8 @@ Repositório dedicado a atividades passadas na disciplina de **Inteligencia Arti
 
 ## Sobre os notebooks
 
-Notebook Python foi criado e mantido no **Google Colab**, contém **50 exercícios** de Python, abordando conceitos básicos e algoritmos mais elaborados.
-Notebook DataScience criado e mantido no **Google Colab**, contém **80 exercícios** de DataScience, abordando NumPy, SciPy, Pandas e Matplotlib. 
+- Notebook Python foi criado e mantido no **Google Colab**, contém **50 exercícios** de Python, abordando conceitos básicos e algoritmos mais elaborados.
+- Notebook DataScience criado e mantido no **Google Colab**, contém **80 exercícios** de DataScience, abordando NumPy, SciPy, Pandas e Matplotlib. 
 
 ### Temas abordados
 
